@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "check_array_formation_through_concatenation"
+		},
+		{
+			"path": "count_sorted_vowel_strings"
 		}
 	]
 }
